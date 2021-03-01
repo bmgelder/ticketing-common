@@ -9,4 +9,4 @@ npm install typescript del-cli --save-dev
 git add.
 git commit -m "..."
 npm version patch
-npm publish
+npm install express express-validator cookie-session jsonwebtoken @types/cookie-session @types/express @types/jsonwebtoken
